@@ -104,6 +104,6 @@ With the best found model architecture as follows:
 
 Sam Barba
 
-<a href="https://www.linkedin.com/in/sam-barba-31033b179/">
+<a href="https://www.linkedin.com/in/sam-barba/">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hide_border=true&style=flat"/>
 </a>
